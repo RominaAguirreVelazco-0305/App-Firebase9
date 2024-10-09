@@ -68,3 +68,5 @@ npm run serve
 ## 🌐 Cómo Visualizar mi repositorio
 Puedes visualizar mi PÁGINA en línea visitando el siguiente enlace:https://github.com/RominaAguirreVelazco-0305/App-Firebase9.git
 
+
+## Desarrollado con ❤️ por Romina Aguirre. 

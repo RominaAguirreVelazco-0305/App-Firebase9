@@ -65,6 +65,6 @@ npm run serve
 - npm run build: Compila la aplicación para producción.
 - npm run deploy: Despliega la aplicación en GitHub Pages.
 
-  ## 🌐 Cómo Visualizar mi repositorio
+## 🌐 Cómo Visualizar mi repositorio
 Puedes visualizar mi PÁGINA en línea visitando el siguiente enlace:https://github.com/RominaAguirreVelazco-0305/App-Firebase9.git
 

@@ -3,6 +3,9 @@
 Este es un proyecto desarrollado con **Vue.js 3** y **Firebase 9**. La aplicación permite a los usuarios **registrarse**, **iniciar sesión**, y **almacenar información** en una base de datos de Firestore.
 
 ## 🌐 Cómo Visualizar mi página
+https://rominaaguirrevelazco-0305.github.io/App-Firebase9/
+
+![image](https://github.com/user-attachments/assets/cc626eca-3446-45f1-a122-9dac3faa0ca9)
 
   
 

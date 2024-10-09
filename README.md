@@ -5,7 +5,8 @@ Este es un proyecto desarrollado con **Vue.js 3** y **Firebase 9**. La aplicaci�
 ## 🌐 Cómo Visualizar mi página
 https://rominaaguirrevelazco-0305.github.io/App-Firebase9/
 
-![image](https://github.com/user-attachments/assets/cc626eca-3446-45f1-a122-9dac3faa0ca9)
+![image](https://github.com/user-attachments/assets/89b25607-e065-48aa-9ca9-d8a50413166b)
+
 
   
 

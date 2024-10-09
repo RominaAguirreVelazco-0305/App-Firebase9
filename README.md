@@ -2,6 +2,10 @@
 
 Este es un proyecto desarrollado con **Vue.js 3** y **Firebase 9**. La aplicación permite a los usuarios **registrarse**, **iniciar sesión**, y **almacenar información** en una base de datos de Firestore.
 
+## 🌐 Cómo Visualizar mi página
+
+  
+
 ## 🚀 Características
 
 - 📋 Registro de usuarios
@@ -57,6 +61,6 @@ npm run serve
 - npm run build: Compila la aplicación para producción.
 - npm run deploy: Despliega la aplicación en GitHub Pages.
 
-  ## 🌐 Cómo Visualizar la Página
-Puedes visualizar mi PÁGINA en línea visitando el siguiente enlace:https://github.com/RominaAguirreVelazco-0305/Finanzas-App.git
-¡Disfruta organizando tus finanzas con esta aplicación! 🎉
+  ## 🌐 Cómo Visualizar mi repositorio
+Puedes visualizar mi PÁGINA en línea visitando el siguiente enlace:https://github.com/RominaAguirreVelazco-0305/App-Firebase9.git
+
